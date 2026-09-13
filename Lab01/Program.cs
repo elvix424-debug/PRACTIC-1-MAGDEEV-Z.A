@@ -1,12 +1,11 @@
-﻿string myName = "Заур Магдеева";
-string groupName = "ИСП-254";
-int courseNumber = 2;
-double averageGrade = 4.6;
-bool isBudget = false;
+﻿Console.WriteLine();
+Console.WriteLine("Внимание: деление int");
 
-Console.WriteLine("Знакомство");
-Console.WriteLine($"Студент: {myName}");
-Console.WriteLine($"Группа: {groupName}");
-Console.WriteLine($"Курс: {courseNumber}");
-Console.WriteLine($"Средний балл: {averageGrade}");
-Console.WriteLine($"Бюджетное место: {isBudget}");
+int totalStudents = 25;
+int groupsCount = 4;
+
+int studentsPerGroupWrong = totalStudents / groupsCount;
+double studentsPerGroupCorrect = (double)totalStudents / groupsCount;
+
+Console.WriteLine($"25 / 4 как int: {studentsPerGroupWrong}");
+Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}");
