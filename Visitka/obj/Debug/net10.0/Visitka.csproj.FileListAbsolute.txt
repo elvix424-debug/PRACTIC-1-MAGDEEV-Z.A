@@ -1,0 +1,15 @@
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\bin\Debug\net10.0\Visitka.exe
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\bin\Debug\net10.0\Visitka.deps.json
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\bin\Debug\net10.0\Visitka.runtimeconfig.json
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\bin\Debug\net10.0\Visitka.dll
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\bin\Debug\net10.0\Visitka.pdb
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfoInputs.cache
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfo.cs
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.csproj.CoreCompileInputs.cache
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.sourcelink.json
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.dll
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\refint\Visitka.dll
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.pdb
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\Visitka.genruntimeconfig.cache
+C:\Users\cranell\Documents\PRACTIC-1-MAGDEEV-Z.A\Visitka\obj\Debug\net10.0\ref\Visitka.dll
