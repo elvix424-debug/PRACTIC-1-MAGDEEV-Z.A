@@ -76,10 +76,19 @@
 // Console.WriteLine($"Цена без НДС: {productPrice}, с НДС ({VatRate:P0}): {priceWithVat}");
 
 
-//Задание 1. Финансовыймини-расчёт ★
-int scholarship = 4500;
-int monthlyExpenses = 2500;
-const int MonthsInSemester = 4;
+// //Задание 1. Финансовыймини-расчёт ★
+// int scholarship = 4500;
+// int monthlyExpenses = 2500;
+// const int MonthsInSemester = 4;
 
-Console.WriteLine($"Денег осталось к концу месяца: {scholarship - monthlyExpenses}");
-Console.WriteLine($"За семестр месяца останется: {(scholarship - monthlyExpenses) * MonthsInSemester}.");
+// Console.WriteLine($"Денег осталось к концу месяца: {scholarship - monthlyExpenses}");
+// Console.WriteLine($"За семестр месяца останется: {(scholarship - monthlyExpenses) * MonthsInSemester}.");
+
+
+
+//Задание 3. Найди и исправь ошибку ★★★
+int totalMinute = 500;
+int minutePerLesson = 45;
+int FullSession = totalMinute / minutePerLesson;
+int ExSession = totalMinute % minutePerLesson;
+Console.WriteLine($"{totalMinute} минут = {FullSession} полных занятий + {ExSession} минут.");
